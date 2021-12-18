@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Regular'), local('Facundo-Regular'),
+        url('https://dl.dropbox.com/s/a8kpxd3lj9yux0s/Facundo-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Light'), local('Facundo-Light'),
+        url('https://dl.dropbox.com/s/1ojwvadi9mg2kl5/Facundo-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Thin Italic'), local('Facundo-ThinItalic'),
+        url('https://dl.dropbox.com/s/qip93l4hnqt68dw/Facundo-ThinItalic.woff2') format('woff2');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Regular Italic'), local('Facundo-RegularItalic'),
+        url('https://dl.dropbox.com/s/pw0h46rac87mo4g/Facundo-RegularItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Thin'), local('Facundo-Thin'),
+        url('https://dl.dropbox.com/s/3mf1u7x096s5bcx/Facundo-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo SemiBold'), local('Facundo-SemiBold'),
+        url('hhttps://dl.dropbox.com/s/z02804gwrqtdurj/Facundo-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Bold Italic'), local('Facundo-BoldItalic'),
+        url('https://dl.dropbox.com/s/u9tsoh35oh4g9mp/Facundo-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo ExtraLight'), local('Facundo-ExtraLight'),
+        url('https://dl.dropbox.com/s/99xkf3qvlr6lkhk/Facundo-ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Bold'), local('Facundo-Bold'),
+        url('https://dl.dropbox.com/s/dkgcvwphnxezbw8/Facundo-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo SemiBold Italic'), local('Facundo-SemiBoldItalic'),
+        url('https://dl.dropbox.com/s/gqqyk26sf102fwl/Facundo-SemiBoldItalic.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo ExtraLight Italic'), local('Facundo-ExtraLightItalic'),
+        url('https://dl.dropbox.com/s/gzg3s6jh6wy09cz/Facundo-ExtraLightItalic.woff2') format('woff2');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Black Italic'), local('Facundo-BlackItalic'),
+        url('https://dl.dropbox.com/s/6vvzo32sry7h10f/Facundo-BlackItalic.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Black'), local('Facundo-Black'),
+        url('https://dl.dropbox.com/s/el2t05etsg9e8go/Facundo-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Facundo';
+    src: local('Facundo Light Italic'), local('Facundo-LightItalic'),
+        url('https://dl.dropbox.com/s/xeddkxxx87yyc6r/Facundo-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+
