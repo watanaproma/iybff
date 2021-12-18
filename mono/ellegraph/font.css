@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Extra Bold Italic'), local('EllographCF-ExtraBoldItalic'),
-        url('https://dl.dropbox.com/s/kky2kylqh3wo93j/EllographCF-ExtraBoldItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-ExtraBoldItalic.woff2') format('woff2');
     font-weight: 800;
     font-style: italic;
 }
@@ -9,7 +9,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Light'), local('EllographCF-Light'),
-        url('https://dl.dropbox.com/s/718lwi8ce3dla8g/EllographCF-Light.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
@@ -17,7 +17,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Light Italic'), local('EllographCF-LightItalic'),
-        url('https://dl.dropbox.com/s/0o407ocqslmfs4r/EllographCF-LightItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-LightItalic.woff2') format('woff2');
     font-weight: 300;
     font-style: italic;
 }
@@ -25,7 +25,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Extra Light Italic'), local('EllographCF-ExtraLightItalic'),
-        url('https://dl.dropbox.com/s/ywxcapay0va7zy9/EllographCF-ExtraLightItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-ExtraLightItalic.woff2') format('woff2');
     font-weight: 200;
     font-style: italic;
 }
@@ -33,7 +33,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Thin Italic'), local('EllographCF-ThinItalic'),
-        url('https://dl.dropbox.com/s/bg2rdyu3nmpdr04/EllographCF-ThinItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-ThinItalic.woff2') format('woff2');
     font-weight: 100;
     font-style: italic;
 }
@@ -41,7 +41,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Bold Italic'), local('EllographCF-BoldItalic'),
-        url('https://dl.dropbox.com/s/jtcqm8b8qnwepdn/EllographCF-BoldItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-BoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
 }
@@ -49,7 +49,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Extra Light'), local('EllographCF-ExtraLight'),
-        url('https://dl.dropbox.com/s/nilutdtuab7jwr9/EllographCF-ExtraLight.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-ExtraLight.woff2') format('woff2');
     font-weight: 200;
     font-style: normal;
 }
@@ -57,7 +57,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Regular Italic'), local('EllographCF-RegularItalic'),
-        url('https://dl.dropbox.com/s/ds4x7daqqu7m6d4/EllographCF-RegularItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-RegularItalic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
 }
@@ -65,7 +65,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Demi Bold Italic'), local('EllographCF-DemiBoldItalic'),
-        url('https://dl.dropbox.com/s/b3o7luz8gw9jp8v/EllographCF-DemiBoldItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-DemiBoldItalic.woff2') format('woff2');
     font-weight: 600;
     font-style: italic;
 }
@@ -73,7 +73,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Demi Bold'), local('EllographCF-DemiBold'),
-        url('https://dl.dropbox.com/s/jfjp09pvqy9qbct/EllographCF-DemiBold.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-DemiBold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
 }
@@ -81,7 +81,7 @@
 @font-face {
     font-family: 'Ellograph CF Extra';
     src: local('Ellograph CF Extra Bold'), local('EllographCF-ExtraBold'),
-        url('https://dl.dropbox.com/s/inyeycthlmqusag/EllographCF-ExtraBold.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
 }
@@ -89,7 +89,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Thin'), local('EllographCF-Thin'),
-        url('https://dl.dropbox.com/s/7hl8zghk59sa6gx/EllographCF-Thin.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
 }
@@ -97,7 +97,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Bold'), local('EllographCF-Bold'),
-        url('https://dl.dropbox.com/s/1qsx226el79f05r/EllographCF-Bold.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
@@ -105,7 +105,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Regular'), local('EllographCF-Regular'),
-        url('https://dl.dropbox.com/s/cn9zqkrkn9leqxh/EllographCF-Regular.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -113,7 +113,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Heavy Italic'), local('EllographCF-HeavyItalic'),
-        url('https://dl.dropbox.com/s/k2qs8409ihgtxfk/EllographCF-HeavyItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-HeavyItalic.woff2') format('woff2');
     font-weight: 900;
     font-style: italic;
 }
@@ -121,7 +121,7 @@
 @font-face {
     font-family: 'Ellograph CF';
     src: local('Ellograph CF Heavy'), local('EllographCF-Heavy'),
-        url('https://dl.dropbox.com/s/1qb8l06cpohbmqx/EllographCF-Heavy.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/mono/ellegraph/EllographCF-Heavy.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
 }
