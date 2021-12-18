@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Black Italic'), local('Keyboard-BlackItalic'),
-        url('https://dl.dropbox.com/s/68ugm6128f4alqa/Keyboard-BlackItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-BlackItalic.woff2') format('woff2');
     font-weight: 900;
     font-style: italic;
 }
@@ -9,7 +9,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Regular'), local('Keyboard-Regular'),
-        url('https://dl.dropbox.com/s/fi9tjm8if595ehs/Keyboard-Regular.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -17,7 +17,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Light Italic'), local('Keyboard-LightItalic'),
-        url('https://dl.dropbox.com/s/guchrr95omhg1nv/Keyboard-LightItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-LightItalic.woff2') format('woff2');
     font-weight: 300;
     font-style: italic;
 }
@@ -25,7 +25,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Medium Italic'), local('Keyboard-MediumItalic'),
-        url('https://dl.dropbox.com/s/d6n08tp43iwt0bq/Keyboard-MediumItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-MediumItalic.woff2') format('woff2');
     font-weight: 500;
     font-style: italic;
 }
@@ -33,7 +33,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Light'), local('Keyboard-Light'),
-        url('https://dl.dropbox.com/s/a6j18gtl9bfa9jx/Keyboard-Light.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
@@ -41,7 +41,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Medium'), local('Keyboard-Medium'),
-        url('https://dl.dropbox.com/s/2s7lheza6r892jr/Keyboard-Medium.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
 }
@@ -49,7 +49,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Regular Italic'), local('Keyboard-RegularItalic'),
-        url('https://dl.dropbox.com/s/8vuki3qkmuvbpfu/Keyboard-RegularItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-RegularItalic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
 }
@@ -57,7 +57,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Black'), local('Keyboard-Black'),
-        url('https://dl.dropbox.com/s/hltyrtw2pqy7b85/Keyboard-Black.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-Black.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
 }
@@ -65,7 +65,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Bold'), local('Keyboard-Bold'),
-        url('https://dl.dropbox.com/s/522xmqef3c9lm9d/Keyboard-Bold.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
@@ -73,7 +73,7 @@
 @font-face {
     font-family: 'Keyboard';
     src: local('Keyboard Bold Italic'), local('Keyboard-BoldItalic'),
-        url('https://dl.dropbox.com/s/umep0vepm6ujuu7/Keyboard-BoldItalic.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/watanaproma/iybff/sans/keyboard/Keyboard-BoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
 }
